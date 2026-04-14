@@ -1,4 +1,6 @@
-# github
+cd # github
 this is only for practice
 <br>
-Author - Shreya Joshi
+Author - Shreya (happy)
+
+
